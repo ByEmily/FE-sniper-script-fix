@@ -1,1 +1,1 @@
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ByEmily/FE-sniper-script-fix/main/Fix"))()
